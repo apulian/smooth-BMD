@@ -13,6 +13,6 @@ If you use this software, please cite the two references below.
 References:
 L. Dieci and A. Pugliese, "SVD, joint-MVD, Berry phase, and generic loss of rank for a matrix valued function of 2 parameters", Linear Algebra and its Applications, Volume 700, 2024, Pages 137-157, DOI: https://doi.org/10.1016/j.laa.2024.07.021
 
-G. Patera and A. Pugliese, "Avoided-crossings, degeneracies and Berry phases in the spectrum of quantum noise through analytic Bloch-Messiah decomposition", Submitted, 2025, https://arxiv.org/abs/2504.20730
+G. Patera and A. Pugliese, "Avoided-crossings, degeneracies and Berry phases in the spectrum of quantum noise through analytic Bloch-Messiah decomposition", Submitted, 2025, https://doi.org/10.48550/arXiv.2504.20730
 
 Authors: Giuseppe Patera and Alessandro Pugliese
